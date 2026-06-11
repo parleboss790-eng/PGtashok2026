@@ -7,6 +7,34 @@
     "allowOffline": true
   },
   {
+    "id": "da3dcd09405fd272",
+    "username": "1",
+    "password": "1",
+    "expiresAt": "2026-06-26",
+    "allowOffline": true
+  },
+  {
+    "id": "cd44f1936a0c220d",
+    "username": "1",
+    "password": "1",
+    "expiresAt": "2026-06-26",
+    "allowOffline": true
+  },
+  {
+    "id": "14ee754ed17f20f4",
+    "username": "1",
+    "password": "1",
+    "expiresAt": "2026-06-29",
+    "allowOffline": true
+  },
+  {
+    "id": "2eaa1da332dbeb9b",
+    "username": "1",
+    "password": "1",
+    "expiresAt": "2026-06-30",
+    "allowOffline": true
+  },
+  {
     "id": "96f1266f8faa4d22",
     "username": "1",
     "password": "1",
